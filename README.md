@@ -5,9 +5,7 @@ This project involves a detailed analysis of the Auto MPG dataset. It is impleme
 ### Users can invoke command line arguments to control:
 
 -Data Sorting: clean the dataset and sort it by MPG, car make, or year
-
 -Statistical Analysis: statistical analysis such as average MPG
-
 -Data Visualisation: visualisations like MPG distributions over years
 
 ## Prerequisites
