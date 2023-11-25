@@ -1,5 +1,5 @@
 # auto_mpg_data_analyis
-This project involves a detailed analysis of the Auto MPG dataset. It is implemented in Python and uses various libraries for data processing, statistical analysis, and visualization. The main functionality includes sorting the dataset based on different attributes, performing basic statistical analyses, and visualizing various characteristics of the data.
+This project involves a detailed analysis of the Auto MPG dataset. It is implemented in Python and uses various libraries for data processing, statistical analysis, and visualization. The main functionality includes sorting the dataset based on different attributes, performing basic statistical analyses, and visualizing various characteristics of the data such as average mpg of each car by make or year.
 
 ## Features
 ### Users can invoke command line arguments to control
