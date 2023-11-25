@@ -2,10 +2,10 @@
 This project involves a detailed analysis of the Auto MPG dataset. It is implemented in Python and uses various libraries for data processing, statistical analysis, and visualization. The main functionality includes sorting the dataset based on different attributes, performing basic statistical analyses, and visualizing various characteristics of the data such as average mpg of each car by make or year.
 
 ## Features
-### Users can invoke command line arguments to control
-Data Sorting: clean the dataset and sort it by MPG, car make, or year
-Statistical Analysis: statistical analysis such as average MPG
-Data Visualisation: visualisations like MPG distributions over years
+### Users can invoke command line arguments to control:
+-Data Sorting: clean the dataset and sort it by MPG, car make, or year
+-Statistical Analysis: statistical analysis such as average MPG
+-Data Visualisation: visualisations like MPG distributions over years
 
 ## Prerequisites
 Python3 
