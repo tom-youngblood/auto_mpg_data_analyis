@@ -1,0 +1,438 @@
+Main function started
+Starting to load data...
+AutoMPG Object Created: Make = chevrolet, Model = chevelle malibu, Year = 70, MPG = 18.0 
+AutoMPG Object Created: Make = buick, Model = skylark 320, Year = 70, MPG = 15.0 
+AutoMPG Object Created: Make = plymouth, Model = satellite, Year = 70, MPG = 18.0 
+AutoMPG Object Created: Make = amc, Model = rebel sst, Year = 70, MPG = 16.0 
+AutoMPG Object Created: Make = ford, Model = torino, Year = 70, MPG = 17.0 
+AutoMPG Object Created: Make = ford, Model = galaxie 500, Year = 70, MPG = 15.0 
+AutoMPG Object Created: Make = chevrolet, Model = impala, Year = 70, MPG = 14.0 
+AutoMPG Object Created: Make = plymouth, Model = fury iii, Year = 70, MPG = 14.0 
+AutoMPG Object Created: Make = pontiac, Model = catalina, Year = 70, MPG = 14.0 
+AutoMPG Object Created: Make = amc, Model = ambassador dpl, Year = 70, MPG = 15.0 
+AutoMPG Object Created: Make = dodge, Model = challenger se, Year = 70, MPG = 15.0 
+AutoMPG Object Created: Make = plymouth, Model = 'cuda 340, Year = 70, MPG = 14.0 
+AutoMPG Object Created: Make = chevrolet, Model = monte carlo, Year = 70, MPG = 15.0 
+AutoMPG Object Created: Make = buick, Model = estate wagon (sw), Year = 70, MPG = 14.0 
+AutoMPG Object Created: Make = toyota, Model = corona mark ii, Year = 70, MPG = 24.0 
+AutoMPG Object Created: Make = plymouth, Model = duster, Year = 70, MPG = 22.0 
+AutoMPG Object Created: Make = amc, Model = hornet, Year = 70, MPG = 18.0 
+AutoMPG Object Created: Make = ford, Model = maverick, Year = 70, MPG = 21.0 
+AutoMPG Object Created: Make = datsun, Model = pl510, Year = 70, MPG = 27.0 
+AutoMPG Object Created: Make = volkswagen, Model = 1131 deluxe sedan, Year = 70, MPG = 26.0 
+AutoMPG Object Created: Make = peugeot, Model = 504, Year = 70, MPG = 25.0 
+AutoMPG Object Created: Make = audi, Model = 100 ls, Year = 70, MPG = 24.0 
+AutoMPG Object Created: Make = saab, Model = 99e, Year = 70, MPG = 25.0 
+AutoMPG Object Created: Make = bmw, Model = 2002, Year = 70, MPG = 26.0 
+AutoMPG Object Created: Make = amc, Model = gremlin, Year = 70, MPG = 21.0 
+AutoMPG Object Created: Make = ford, Model = f250, Year = 70, MPG = 10.0 
+Cleaning typo: chevy
+Typo cleaned to: chevrolet
+AutoMPG Object Created: Make = chevrolet, Model = c20, Year = 70, MPG = 10.0 
+AutoMPG Object Created: Make = dodge, Model = d200, Year = 70, MPG = 11.0 
+AutoMPG Object Created: Make = hi, Model = 1200d, Year = 70, MPG = 9.0 
+AutoMPG Object Created: Make = datsun, Model = pl510, Year = 71, MPG = 27.0 
+AutoMPG Object Created: Make = chevrolet, Model = vega 2300, Year = 71, MPG = 28.0 
+AutoMPG Object Created: Make = toyota, Model = corona, Year = 71, MPG = 25.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 71, MPG = 25.0 
+AutoMPG Object Created: Make = amc, Model = gremlin, Year = 71, MPG = 19.0 
+AutoMPG Object Created: Make = plymouth, Model = satellite custom, Year = 71, MPG = 16.0 
+AutoMPG Object Created: Make = chevrolet, Model = chevelle malibu, Year = 71, MPG = 17.0 
+AutoMPG Object Created: Make = ford, Model = torino 500, Year = 71, MPG = 19.0 
+AutoMPG Object Created: Make = amc, Model = matador, Year = 71, MPG = 18.0 
+AutoMPG Object Created: Make = chevrolet, Model = impala, Year = 71, MPG = 14.0 
+AutoMPG Object Created: Make = pontiac, Model = catalina brougham, Year = 71, MPG = 14.0 
+AutoMPG Object Created: Make = ford, Model = galaxie 500, Year = 71, MPG = 14.0 
+AutoMPG Object Created: Make = plymouth, Model = fury iii, Year = 71, MPG = 14.0 
+AutoMPG Object Created: Make = dodge, Model = monaco (sw), Year = 71, MPG = 12.0 
+AutoMPG Object Created: Make = ford, Model = country squire (sw), Year = 71, MPG = 13.0 
+AutoMPG Object Created: Make = pontiac, Model = safari (sw), Year = 71, MPG = 13.0 
+AutoMPG Object Created: Make = amc, Model = hornet sportabout (sw), Year = 71, MPG = 18.0 
+AutoMPG Object Created: Make = chevrolet, Model = vega (sw), Year = 71, MPG = 22.0 
+AutoMPG Object Created: Make = pontiac, Model = firebird, Year = 71, MPG = 19.0 
+AutoMPG Object Created: Make = ford, Model = mustang, Year = 71, MPG = 18.0 
+AutoMPG Object Created: Make = mercury, Model = capri 2000, Year = 71, MPG = 23.0 
+AutoMPG Object Created: Make = opel, Model = 1900, Year = 71, MPG = 28.0 
+AutoMPG Object Created: Make = peugeot, Model = 304, Year = 71, MPG = 30.0 
+AutoMPG Object Created: Make = fiat, Model = 124b, Year = 71, MPG = 30.0 
+AutoMPG Object Created: Make = toyota, Model = corolla 1200, Year = 71, MPG = 31.0 
+AutoMPG Object Created: Make = datsun, Model = 1200, Year = 71, MPG = 35.0 
+AutoMPG Object Created: Make = volkswagen, Model = model 111, Year = 71, MPG = 27.0 
+AutoMPG Object Created: Make = plymouth, Model = cricket, Year = 71, MPG = 26.0 
+AutoMPG Object Created: Make = toyota, Model = corona hardtop, Year = 72, MPG = 24.0 
+AutoMPG Object Created: Make = dodge, Model = colt hardtop, Year = 72, MPG = 25.0 
+AutoMPG Object Created: Make = volkswagen, Model = type 3, Year = 72, MPG = 23.0 
+AutoMPG Object Created: Make = chevrolet, Model = vega, Year = 72, MPG = 20.0 
+AutoMPG Object Created: Make = ford, Model = pinto runabout, Year = 72, MPG = 21.0 
+AutoMPG Object Created: Make = chevrolet, Model = impala, Year = 72, MPG = 13.0 
+AutoMPG Object Created: Make = pontiac, Model = catalina, Year = 72, MPG = 14.0 
+AutoMPG Object Created: Make = plymouth, Model = fury iii, Year = 72, MPG = 15.0 
+AutoMPG Object Created: Make = ford, Model = galaxie 500, Year = 72, MPG = 14.0 
+AutoMPG Object Created: Make = amc, Model = ambassador sst, Year = 72, MPG = 17.0 
+AutoMPG Object Created: Make = mercury, Model = marquis, Year = 72, MPG = 11.0 
+AutoMPG Object Created: Make = buick, Model = lesabre custom, Year = 72, MPG = 13.0 
+AutoMPG Object Created: Make = oldsmobile, Model = delta 88 royale, Year = 72, MPG = 12.0 
+AutoMPG Object Created: Make = chrysler, Model = newport royal, Year = 72, MPG = 13.0 
+AutoMPG Object Created: Make = mazda, Model = rx2 coupe, Year = 72, MPG = 19.0 
+AutoMPG Object Created: Make = amc, Model = matador (sw), Year = 72, MPG = 15.0 
+AutoMPG Object Created: Make = chevrolet, Model = chevelle concours (sw), Year = 72, MPG = 13.0 
+AutoMPG Object Created: Make = ford, Model = gran torino (sw), Year = 72, MPG = 13.0 
+AutoMPG Object Created: Make = plymouth, Model = satellite custom (sw), Year = 72, MPG = 14.0 
+AutoMPG Object Created: Make = volvo, Model = 145e (sw), Year = 72, MPG = 18.0 
+AutoMPG Object Created: Make = volkswagen, Model = 411 (sw), Year = 72, MPG = 22.0 
+AutoMPG Object Created: Make = peugeot, Model = 504 (sw), Year = 72, MPG = 21.0 
+AutoMPG Object Created: Make = renault, Model = 12 (sw), Year = 72, MPG = 26.0 
+AutoMPG Object Created: Make = ford, Model = pinto (sw), Year = 72, MPG = 22.0 
+AutoMPG Object Created: Make = datsun, Model = 510 (sw), Year = 72, MPG = 28.0 
+Cleaning typo: toyouta
+Typo cleaned to: toyota
+AutoMPG Object Created: Make = toyota, Model = corona mark ii (sw), Year = 72, MPG = 23.0 
+AutoMPG Object Created: Make = dodge, Model = colt (sw), Year = 72, MPG = 28.0 
+AutoMPG Object Created: Make = toyota, Model = corolla 1600 (sw), Year = 72, MPG = 27.0 
+AutoMPG Object Created: Make = buick, Model = century 350, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = amc, Model = matador, Year = 73, MPG = 14.0 
+AutoMPG Object Created: Make = chevrolet, Model = malibu, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = ford, Model = gran torino, Year = 73, MPG = 14.0 
+AutoMPG Object Created: Make = dodge, Model = coronet custom, Year = 73, MPG = 15.0 
+AutoMPG Object Created: Make = mercury, Model = marquis brougham, Year = 73, MPG = 12.0 
+AutoMPG Object Created: Make = chevrolet, Model = caprice classic, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = ford, Model = ltd, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = plymouth, Model = fury gran sedan, Year = 73, MPG = 14.0 
+AutoMPG Object Created: Make = chrysler, Model = new yorker brougham, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = buick, Model = electra 225 custom, Year = 73, MPG = 12.0 
+AutoMPG Object Created: Make = amc, Model = ambassador brougham, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = plymouth, Model = valiant, Year = 73, MPG = 18.0 
+AutoMPG Object Created: Make = chevrolet, Model = nova custom, Year = 73, MPG = 16.0 
+AutoMPG Object Created: Make = amc, Model = hornet, Year = 73, MPG = 18.0 
+AutoMPG Object Created: Make = ford, Model = maverick, Year = 73, MPG = 18.0 
+AutoMPG Object Created: Make = plymouth, Model = duster, Year = 73, MPG = 23.0 
+AutoMPG Object Created: Make = volkswagen, Model = super beetle, Year = 73, MPG = 26.0 
+AutoMPG Object Created: Make = chevrolet, Model = impala, Year = 73, MPG = 11.0 
+AutoMPG Object Created: Make = ford, Model = country, Year = 73, MPG = 12.0 
+AutoMPG Object Created: Make = plymouth, Model = custom suburb, Year = 73, MPG = 13.0 
+AutoMPG Object Created: Make = oldsmobile, Model = vista cruiser, Year = 73, MPG = 12.0 
+AutoMPG Object Created: Make = amc, Model = gremlin, Year = 73, MPG = 18.0 
+AutoMPG Object Created: Make = toyota, Model = carina, Year = 73, MPG = 20.0 
+AutoMPG Object Created: Make = chevrolet, Model = vega, Year = 73, MPG = 21.0 
+AutoMPG Object Created: Make = datsun, Model = 610, Year = 73, MPG = 22.0 
+Cleaning typo: maxda
+Typo cleaned to: mazda
+AutoMPG Object Created: Make = mazda, Model = rx3, Year = 73, MPG = 18.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 73, MPG = 19.0 
+AutoMPG Object Created: Make = mercury, Model = capri v6, Year = 73, MPG = 21.0 
+AutoMPG Object Created: Make = fiat, Model = 124 sport coupe, Year = 73, MPG = 26.0 
+AutoMPG Object Created: Make = chevrolet, Model = monte carlo s, Year = 73, MPG = 15.0 
+AutoMPG Object Created: Make = pontiac, Model = grand prix, Year = 73, MPG = 16.0 
+AutoMPG Object Created: Make = fiat, Model = 128, Year = 73, MPG = 29.0 
+AutoMPG Object Created: Make = opel, Model = manta, Year = 73, MPG = 24.0 
+AutoMPG Object Created: Make = audi, Model = 100ls, Year = 73, MPG = 20.0 
+AutoMPG Object Created: Make = volvo, Model = 144ea, Year = 73, MPG = 19.0 
+AutoMPG Object Created: Make = dodge, Model = dart custom, Year = 73, MPG = 15.0 
+AutoMPG Object Created: Make = saab, Model = 99le, Year = 73, MPG = 24.0 
+AutoMPG Object Created: Make = toyota, Model = mark ii, Year = 73, MPG = 20.0 
+AutoMPG Object Created: Make = oldsmobile, Model = omega, Year = 73, MPG = 11.0 
+AutoMPG Object Created: Make = plymouth, Model = duster, Year = 74, MPG = 20.0 
+AutoMPG Object Created: Make = ford, Model = maverick, Year = 74, MPG = 21.0 
+AutoMPG Object Created: Make = amc, Model = hornet, Year = 74, MPG = 19.0 
+AutoMPG Object Created: Make = chevrolet, Model = nova, Year = 74, MPG = 15.0 
+AutoMPG Object Created: Make = datsun, Model = b210, Year = 74, MPG = 31.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 74, MPG = 26.0 
+AutoMPG Object Created: Make = toyota, Model = corolla 1200, Year = 74, MPG = 32.0 
+AutoMPG Object Created: Make = chevrolet, Model = vega, Year = 74, MPG = 25.0 
+AutoMPG Object Created: Make = chevrolet, Model = chevelle malibu classic, Year = 74, MPG = 16.0 
+AutoMPG Object Created: Make = amc, Model = matador, Year = 74, MPG = 16.0 
+AutoMPG Object Created: Make = plymouth, Model = satellite sebring, Year = 74, MPG = 18.0 
+AutoMPG Object Created: Make = ford, Model = gran torino, Year = 74, MPG = 16.0 
+AutoMPG Object Created: Make = buick, Model = century luxus (sw), Year = 74, MPG = 13.0 
+AutoMPG Object Created: Make = dodge, Model = coronet custom (sw), Year = 74, MPG = 14.0 
+AutoMPG Object Created: Make = ford, Model = gran torino (sw), Year = 74, MPG = 14.0 
+AutoMPG Object Created: Make = amc, Model = matador (sw), Year = 74, MPG = 14.0 
+AutoMPG Object Created: Make = audi, Model = fox, Year = 74, MPG = 29.0 
+AutoMPG Object Created: Make = volkswagen, Model = dasher, Year = 74, MPG = 26.0 
+AutoMPG Object Created: Make = opel, Model = manta, Year = 74, MPG = 26.0 
+AutoMPG Object Created: Make = toyota, Model = corona, Year = 74, MPG = 31.0 
+AutoMPG Object Created: Make = datsun, Model = 710, Year = 74, MPG = 32.0 
+AutoMPG Object Created: Make = dodge, Model = colt, Year = 74, MPG = 28.0 
+AutoMPG Object Created: Make = fiat, Model = 128, Year = 74, MPG = 24.0 
+AutoMPG Object Created: Make = fiat, Model = 124 tc, Year = 74, MPG = 26.0 
+AutoMPG Object Created: Make = honda, Model = civic, Year = 74, MPG = 24.0 
+AutoMPG Object Created: Make = subaru, Model = , Year = 74, MPG = 26.0 
+AutoMPG Object Created: Make = fiat, Model = x1.9, Year = 74, MPG = 31.0 
+AutoMPG Object Created: Make = plymouth, Model = valiant custom, Year = 75, MPG = 19.0 
+AutoMPG Object Created: Make = chevrolet, Model = nova, Year = 75, MPG = 18.0 
+AutoMPG Object Created: Make = mercury, Model = monarch, Year = 75, MPG = 15.0 
+AutoMPG Object Created: Make = ford, Model = maverick, Year = 75, MPG = 15.0 
+AutoMPG Object Created: Make = pontiac, Model = catalina, Year = 75, MPG = 16.0 
+AutoMPG Object Created: Make = chevrolet, Model = bel air, Year = 75, MPG = 15.0 
+AutoMPG Object Created: Make = plymouth, Model = grand fury, Year = 75, MPG = 16.0 
+AutoMPG Object Created: Make = ford, Model = ltd, Year = 75, MPG = 14.0 
+AutoMPG Object Created: Make = buick, Model = century, Year = 75, MPG = 17.0 
+Cleaning typo: chevroelt
+Typo cleaned to: chevrolet
+AutoMPG Object Created: Make = chevrolet, Model = chevelle malibu, Year = 75, MPG = 16.0 
+AutoMPG Object Created: Make = amc, Model = matador, Year = 75, MPG = 15.0 
+AutoMPG Object Created: Make = plymouth, Model = fury, Year = 75, MPG = 18.0 
+AutoMPG Object Created: Make = buick, Model = skyhawk, Year = 75, MPG = 21.0 
+AutoMPG Object Created: Make = chevrolet, Model = monza 2+2, Year = 75, MPG = 20.0 
+AutoMPG Object Created: Make = ford, Model = mustang ii, Year = 75, MPG = 13.0 
+AutoMPG Object Created: Make = toyota, Model = corolla, Year = 75, MPG = 29.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 75, MPG = 23.0 
+AutoMPG Object Created: Make = amc, Model = gremlin, Year = 75, MPG = 20.0 
+AutoMPG Object Created: Make = pontiac, Model = astro, Year = 75, MPG = 23.0 
+AutoMPG Object Created: Make = toyota, Model = corona, Year = 75, MPG = 24.0 
+AutoMPG Object Created: Make = volkswagen, Model = dasher, Year = 75, MPG = 25.0 
+AutoMPG Object Created: Make = datsun, Model = 710, Year = 75, MPG = 24.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 75, MPG = 18.0 
+AutoMPG Object Created: Make = volkswagen, Model = rabbit, Year = 75, MPG = 29.0 
+AutoMPG Object Created: Make = amc, Model = pacer, Year = 75, MPG = 19.0 
+AutoMPG Object Created: Make = audi, Model = 100ls, Year = 75, MPG = 23.0 
+AutoMPG Object Created: Make = peugeot, Model = 504, Year = 75, MPG = 23.0 
+AutoMPG Object Created: Make = volvo, Model = 244dl, Year = 75, MPG = 22.0 
+AutoMPG Object Created: Make = saab, Model = 99le, Year = 75, MPG = 25.0 
+AutoMPG Object Created: Make = honda, Model = civic cvcc, Year = 75, MPG = 33.0 
+AutoMPG Object Created: Make = fiat, Model = 131, Year = 76, MPG = 28.0 
+AutoMPG Object Created: Make = opel, Model = 1900, Year = 76, MPG = 25.0 
+AutoMPG Object Created: Make = capri, Model = ii, Year = 76, MPG = 25.0 
+AutoMPG Object Created: Make = dodge, Model = colt, Year = 76, MPG = 26.0 
+AutoMPG Object Created: Make = renault, Model = 12tl, Year = 76, MPG = 27.0 
+AutoMPG Object Created: Make = chevrolet, Model = chevelle malibu classic, Year = 76, MPG = 17.5 
+AutoMPG Object Created: Make = dodge, Model = coronet brougham, Year = 76, MPG = 16.0 
+AutoMPG Object Created: Make = amc, Model = matador, Year = 76, MPG = 15.5 
+AutoMPG Object Created: Make = ford, Model = gran torino, Year = 76, MPG = 14.5 
+AutoMPG Object Created: Make = plymouth, Model = valiant, Year = 76, MPG = 22.0 
+AutoMPG Object Created: Make = chevrolet, Model = nova, Year = 76, MPG = 22.0 
+AutoMPG Object Created: Make = ford, Model = maverick, Year = 76, MPG = 24.0 
+AutoMPG Object Created: Make = amc, Model = hornet, Year = 76, MPG = 22.5 
+AutoMPG Object Created: Make = chevrolet, Model = chevette, Year = 76, MPG = 29.0 
+AutoMPG Object Created: Make = chevrolet, Model = woody, Year = 76, MPG = 24.5 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = rabbit, Year = 76, MPG = 29.0 
+AutoMPG Object Created: Make = honda, Model = civic, Year = 76, MPG = 33.0 
+AutoMPG Object Created: Make = dodge, Model = aspen se, Year = 76, MPG = 20.0 
+AutoMPG Object Created: Make = ford, Model = granada ghia, Year = 76, MPG = 18.0 
+AutoMPG Object Created: Make = pontiac, Model = ventura sj, Year = 76, MPG = 18.5 
+AutoMPG Object Created: Make = amc, Model = pacer d/l, Year = 76, MPG = 17.5 
+AutoMPG Object Created: Make = volkswagen, Model = rabbit, Year = 76, MPG = 29.5 
+AutoMPG Object Created: Make = datsun, Model = b-210, Year = 76, MPG = 32.0 
+AutoMPG Object Created: Make = toyota, Model = corolla, Year = 76, MPG = 28.0 
+AutoMPG Object Created: Make = ford, Model = pinto, Year = 76, MPG = 26.5 
+AutoMPG Object Created: Make = volvo, Model = 245, Year = 76, MPG = 20.0 
+AutoMPG Object Created: Make = plymouth, Model = volare premier v8, Year = 76, MPG = 13.0 
+AutoMPG Object Created: Make = peugeot, Model = 504, Year = 76, MPG = 19.0 
+AutoMPG Object Created: Make = toyota, Model = mark ii, Year = 76, MPG = 19.0 
+Cleaning typo: mercedes-benz
+Typo cleaned to: mercedes
+AutoMPG Object Created: Make = mercedes, Model = 280s, Year = 76, MPG = 16.5 
+AutoMPG Object Created: Make = cadillac, Model = seville, Year = 76, MPG = 16.5 
+Cleaning typo: chevy
+Typo cleaned to: chevrolet
+AutoMPG Object Created: Make = chevrolet, Model = c10, Year = 76, MPG = 13.0 
+AutoMPG Object Created: Make = ford, Model = f108, Year = 76, MPG = 13.0 
+AutoMPG Object Created: Make = dodge, Model = d100, Year = 76, MPG = 13.0 
+AutoMPG Object Created: Make = honda, Model = accord cvcc, Year = 77, MPG = 31.5 
+AutoMPG Object Created: Make = buick, Model = opel isuzu deluxe, Year = 77, MPG = 30.0 
+AutoMPG Object Created: Make = renault, Model = 5 gtl, Year = 77, MPG = 36.0 
+AutoMPG Object Created: Make = plymouth, Model = arrow gs, Year = 77, MPG = 25.5 
+AutoMPG Object Created: Make = datsun, Model = f-10 hatchback, Year = 77, MPG = 33.5 
+AutoMPG Object Created: Make = chevrolet, Model = caprice classic, Year = 77, MPG = 17.5 
+AutoMPG Object Created: Make = oldsmobile, Model = cutlass supreme, Year = 77, MPG = 17.0 
+AutoMPG Object Created: Make = dodge, Model = monaco brougham, Year = 77, MPG = 15.5 
+AutoMPG Object Created: Make = mercury, Model = cougar brougham, Year = 77, MPG = 15.0 
+AutoMPG Object Created: Make = chevrolet, Model = concours, Year = 77, MPG = 17.5 
+AutoMPG Object Created: Make = buick, Model = skylark, Year = 77, MPG = 20.5 
+AutoMPG Object Created: Make = plymouth, Model = volare custom, Year = 77, MPG = 19.0 
+AutoMPG Object Created: Make = ford, Model = granada, Year = 77, MPG = 18.5 
+AutoMPG Object Created: Make = pontiac, Model = grand prix lj, Year = 77, MPG = 16.0 
+AutoMPG Object Created: Make = chevrolet, Model = monte carlo landau, Year = 77, MPG = 15.5 
+AutoMPG Object Created: Make = chrysler, Model = cordoba, Year = 77, MPG = 15.5 
+AutoMPG Object Created: Make = ford, Model = thunderbird, Year = 77, MPG = 16.0 
+AutoMPG Object Created: Make = volkswagen, Model = rabbit custom, Year = 77, MPG = 29.0 
+AutoMPG Object Created: Make = pontiac, Model = sunbird coupe, Year = 77, MPG = 24.5 
+AutoMPG Object Created: Make = toyota, Model = corolla liftback, Year = 77, MPG = 26.0 
+AutoMPG Object Created: Make = ford, Model = mustang ii 2+2, Year = 77, MPG = 25.5 
+AutoMPG Object Created: Make = chevrolet, Model = chevette, Year = 77, MPG = 30.5 
+AutoMPG Object Created: Make = dodge, Model = colt m/m, Year = 77, MPG = 33.5 
+AutoMPG Object Created: Make = subaru, Model = dl, Year = 77, MPG = 30.0 
+AutoMPG Object Created: Make = volkswagen, Model = dasher, Year = 77, MPG = 30.5 
+AutoMPG Object Created: Make = datsun, Model = 810, Year = 77, MPG = 22.0 
+AutoMPG Object Created: Make = bmw, Model = 320i, Year = 77, MPG = 21.5 
+AutoMPG Object Created: Make = mazda, Model = rx-4, Year = 77, MPG = 21.5 
+AutoMPG Object Created: Make = volkswagen, Model = rabbit custom diesel, Year = 78, MPG = 43.1 
+AutoMPG Object Created: Make = ford, Model = fiesta, Year = 78, MPG = 36.1 
+AutoMPG Object Created: Make = mazda, Model = glc deluxe, Year = 78, MPG = 32.8 
+AutoMPG Object Created: Make = datsun, Model = b210 gx, Year = 78, MPG = 39.4 
+AutoMPG Object Created: Make = honda, Model = civic cvcc, Year = 78, MPG = 36.1 
+AutoMPG Object Created: Make = oldsmobile, Model = cutlass salon brougham, Year = 78, MPG = 19.9 
+AutoMPG Object Created: Make = dodge, Model = diplomat, Year = 78, MPG = 19.4 
+AutoMPG Object Created: Make = mercury, Model = monarch ghia, Year = 78, MPG = 20.2 
+AutoMPG Object Created: Make = pontiac, Model = phoenix lj, Year = 78, MPG = 19.2 
+AutoMPG Object Created: Make = chevrolet, Model = malibu, Year = 78, MPG = 20.5 
+AutoMPG Object Created: Make = ford, Model = fairmont (auto), Year = 78, MPG = 20.2 
+AutoMPG Object Created: Make = ford, Model = fairmont (man), Year = 78, MPG = 25.1 
+AutoMPG Object Created: Make = plymouth, Model = volare, Year = 78, MPG = 20.5 
+AutoMPG Object Created: Make = amc, Model = concord, Year = 78, MPG = 19.4 
+AutoMPG Object Created: Make = buick, Model = century special, Year = 78, MPG = 20.6 
+AutoMPG Object Created: Make = mercury, Model = zephyr, Year = 78, MPG = 20.8 
+AutoMPG Object Created: Make = dodge, Model = aspen, Year = 78, MPG = 18.6 
+AutoMPG Object Created: Make = amc, Model = concord d/l, Year = 78, MPG = 18.1 
+AutoMPG Object Created: Make = chevrolet, Model = monte carlo landau, Year = 78, MPG = 19.2 
+AutoMPG Object Created: Make = buick, Model = regal sport coupe (turbo), Year = 78, MPG = 17.7 
+AutoMPG Object Created: Make = ford, Model = futura, Year = 78, MPG = 18.1 
+AutoMPG Object Created: Make = dodge, Model = magnum xe, Year = 78, MPG = 17.5 
+AutoMPG Object Created: Make = chevrolet, Model = chevette, Year = 78, MPG = 30.0 
+AutoMPG Object Created: Make = toyota, Model = corona, Year = 78, MPG = 27.5 
+AutoMPG Object Created: Make = datsun, Model = 510, Year = 78, MPG = 27.2 
+AutoMPG Object Created: Make = dodge, Model = omni, Year = 78, MPG = 30.9 
+AutoMPG Object Created: Make = toyota, Model = celica gt liftback, Year = 78, MPG = 21.1 
+AutoMPG Object Created: Make = plymouth, Model = sapporo, Year = 78, MPG = 23.2 
+AutoMPG Object Created: Make = oldsmobile, Model = starfire sx, Year = 78, MPG = 23.8 
+AutoMPG Object Created: Make = datsun, Model = 200-sx, Year = 78, MPG = 23.9 
+AutoMPG Object Created: Make = audi, Model = 5000, Year = 78, MPG = 20.3 
+AutoMPG Object Created: Make = volvo, Model = 264gl, Year = 78, MPG = 17.0 
+AutoMPG Object Created: Make = saab, Model = 99gle, Year = 78, MPG = 21.6 
+AutoMPG Object Created: Make = peugeot, Model = 604sl, Year = 78, MPG = 16.2 
+AutoMPG Object Created: Make = volkswagen, Model = scirocco, Year = 78, MPG = 31.5 
+AutoMPG Object Created: Make = honda, Model = accord lx, Year = 78, MPG = 29.5 
+AutoMPG Object Created: Make = pontiac, Model = lemans v6, Year = 79, MPG = 21.5 
+AutoMPG Object Created: Make = mercury, Model = zephyr 6, Year = 79, MPG = 19.8 
+AutoMPG Object Created: Make = ford, Model = fairmont 4, Year = 79, MPG = 22.3 
+AutoMPG Object Created: Make = amc, Model = concord dl 6, Year = 79, MPG = 20.2 
+AutoMPG Object Created: Make = dodge, Model = aspen 6, Year = 79, MPG = 20.6 
+AutoMPG Object Created: Make = chevrolet, Model = caprice classic, Year = 79, MPG = 17.0 
+AutoMPG Object Created: Make = ford, Model = ltd landau, Year = 79, MPG = 17.6 
+AutoMPG Object Created: Make = mercury, Model = grand marquis, Year = 79, MPG = 16.5 
+AutoMPG Object Created: Make = dodge, Model = st. regis, Year = 79, MPG = 18.2 
+AutoMPG Object Created: Make = buick, Model = estate wagon (sw), Year = 79, MPG = 16.9 
+AutoMPG Object Created: Make = ford, Model = country squire (sw), Year = 79, MPG = 15.5 
+AutoMPG Object Created: Make = chevrolet, Model = malibu classic (sw), Year = 79, MPG = 19.2 
+AutoMPG Object Created: Make = chrysler, Model = lebaron town @ country (sw), Year = 79, MPG = 18.5 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = rabbit custom, Year = 79, MPG = 31.9 
+Cleaning typo: maxda
+Typo cleaned to: mazda
+AutoMPG Object Created: Make = mazda, Model = glc deluxe, Year = 79, MPG = 34.1 
+AutoMPG Object Created: Make = dodge, Model = colt hatchback custom, Year = 79, MPG = 35.7 
+AutoMPG Object Created: Make = amc, Model = spirit dl, Year = 79, MPG = 27.4 
+AutoMPG Object Created: Make = mercedes, Model = benz 300d, Year = 79, MPG = 25.4 
+AutoMPG Object Created: Make = cadillac, Model = eldorado, Year = 79, MPG = 23.0 
+AutoMPG Object Created: Make = peugeot, Model = 504, Year = 79, MPG = 27.2 
+AutoMPG Object Created: Make = oldsmobile, Model = cutlass salon brougham, Year = 79, MPG = 23.9 
+AutoMPG Object Created: Make = plymouth, Model = horizon, Year = 79, MPG = 34.2 
+AutoMPG Object Created: Make = plymouth, Model = horizon tc3, Year = 79, MPG = 34.5 
+AutoMPG Object Created: Make = datsun, Model = 210, Year = 79, MPG = 31.8 
+AutoMPG Object Created: Make = fiat, Model = strada custom, Year = 79, MPG = 37.3 
+AutoMPG Object Created: Make = buick, Model = skylark limited, Year = 79, MPG = 28.4 
+AutoMPG Object Created: Make = chevrolet, Model = citation, Year = 79, MPG = 28.8 
+AutoMPG Object Created: Make = oldsmobile, Model = omega brougham, Year = 79, MPG = 26.8 
+AutoMPG Object Created: Make = pontiac, Model = phoenix, Year = 79, MPG = 33.5 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = rabbit, Year = 80, MPG = 41.5 
+AutoMPG Object Created: Make = toyota, Model = corolla tercel, Year = 80, MPG = 38.1 
+AutoMPG Object Created: Make = chevrolet, Model = chevette, Year = 80, MPG = 32.1 
+AutoMPG Object Created: Make = datsun, Model = 310, Year = 80, MPG = 37.2 
+AutoMPG Object Created: Make = chevrolet, Model = citation, Year = 80, MPG = 28.0 
+AutoMPG Object Created: Make = ford, Model = fairmont, Year = 80, MPG = 26.4 
+AutoMPG Object Created: Make = amc, Model = concord, Year = 80, MPG = 24.3 
+AutoMPG Object Created: Make = dodge, Model = aspen, Year = 80, MPG = 19.1 
+AutoMPG Object Created: Make = audi, Model = 4000, Year = 80, MPG = 34.3 
+AutoMPG Object Created: Make = toyota, Model = corona liftback, Year = 80, MPG = 29.8 
+AutoMPG Object Created: Make = mazda, Model = 626, Year = 80, MPG = 31.3 
+AutoMPG Object Created: Make = datsun, Model = 510 hatchback, Year = 80, MPG = 37.0 
+AutoMPG Object Created: Make = toyota, Model = corolla, Year = 80, MPG = 32.2 
+AutoMPG Object Created: Make = mazda, Model = glc, Year = 80, MPG = 46.6 
+AutoMPG Object Created: Make = dodge, Model = colt, Year = 80, MPG = 27.9 
+AutoMPG Object Created: Make = datsun, Model = 210, Year = 80, MPG = 40.8 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = rabbit c (diesel), Year = 80, MPG = 44.3 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = dasher (diesel), Year = 80, MPG = 43.4 
+AutoMPG Object Created: Make = audi, Model = 5000s (diesel), Year = 80, MPG = 36.4 
+Cleaning typo: mercedes-benz
+Typo cleaned to: mercedes
+AutoMPG Object Created: Make = mercedes, Model = 240d, Year = 80, MPG = 30.0 
+AutoMPG Object Created: Make = honda, Model = civic 1500 gl, Year = 80, MPG = 44.6 
+AutoMPG Object Created: Make = renault, Model = lecar deluxe, Year = 80, MPG = 40.9 
+AutoMPG Object Created: Make = subaru, Model = dl, Year = 80, MPG = 33.8 
+Cleaning typo: vokswagen
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = rabbit, Year = 80, MPG = 29.8 
+AutoMPG Object Created: Make = datsun, Model = 280-zx, Year = 80, MPG = 32.7 
+AutoMPG Object Created: Make = mazda, Model = rx-7 gs, Year = 80, MPG = 23.7 
+AutoMPG Object Created: Make = triumph, Model = tr7 coupe, Year = 80, MPG = 35.0 
+AutoMPG Object Created: Make = ford, Model = mustang cobra, Year = 80, MPG = 23.6 
+AutoMPG Object Created: Make = honda, Model = accord, Year = 80, MPG = 32.4 
+AutoMPG Object Created: Make = plymouth, Model = reliant, Year = 81, MPG = 27.2 
+AutoMPG Object Created: Make = buick, Model = skylark, Year = 81, MPG = 26.6 
+AutoMPG Object Created: Make = dodge, Model = aries wagon (sw), Year = 81, MPG = 25.8 
+AutoMPG Object Created: Make = chevrolet, Model = citation, Year = 81, MPG = 23.5 
+AutoMPG Object Created: Make = plymouth, Model = reliant, Year = 81, MPG = 30.0 
+AutoMPG Object Created: Make = toyota, Model = starlet, Year = 81, MPG = 39.1 
+AutoMPG Object Created: Make = plymouth, Model = champ, Year = 81, MPG = 39.0 
+AutoMPG Object Created: Make = honda, Model = civic 1300, Year = 81, MPG = 35.1 
+AutoMPG Object Created: Make = subaru, Model = , Year = 81, MPG = 32.3 
+AutoMPG Object Created: Make = datsun, Model = 210 mpg, Year = 81, MPG = 37.0 
+AutoMPG Object Created: Make = toyota, Model = tercel, Year = 81, MPG = 37.7 
+AutoMPG Object Created: Make = mazda, Model = glc 4, Year = 81, MPG = 34.1 
+AutoMPG Object Created: Make = plymouth, Model = horizon 4, Year = 81, MPG = 34.7 
+AutoMPG Object Created: Make = ford, Model = escort 4w, Year = 81, MPG = 34.4 
+AutoMPG Object Created: Make = ford, Model = escort 2h, Year = 81, MPG = 29.9 
+AutoMPG Object Created: Make = volkswagen, Model = jetta, Year = 81, MPG = 33.0 
+AutoMPG Object Created: Make = renault, Model = 18i, Year = 81, MPG = 34.5 
+AutoMPG Object Created: Make = honda, Model = prelude, Year = 81, MPG = 33.7 
+AutoMPG Object Created: Make = toyota, Model = corolla, Year = 81, MPG = 32.4 
+AutoMPG Object Created: Make = datsun, Model = 200sx, Year = 81, MPG = 32.9 
+AutoMPG Object Created: Make = mazda, Model = 626, Year = 81, MPG = 31.6 
+AutoMPG Object Created: Make = peugeot, Model = 505s turbo diesel, Year = 81, MPG = 28.1 
+AutoMPG Object Created: Make = volvo, Model = diesel, Year = 81, MPG = 30.7 
+AutoMPG Object Created: Make = toyota, Model = cressida, Year = 81, MPG = 25.4 
+AutoMPG Object Created: Make = datsun, Model = 810 maxima, Year = 81, MPG = 24.2 
+AutoMPG Object Created: Make = buick, Model = century, Year = 81, MPG = 22.4 
+AutoMPG Object Created: Make = oldsmobile, Model = cutlass ls, Year = 81, MPG = 26.6 
+AutoMPG Object Created: Make = ford, Model = granada gl, Year = 81, MPG = 20.2 
+AutoMPG Object Created: Make = chrysler, Model = lebaron salon, Year = 81, MPG = 17.6 
+AutoMPG Object Created: Make = chevrolet, Model = cavalier, Year = 82, MPG = 28.0 
+AutoMPG Object Created: Make = chevrolet, Model = cavalier wagon, Year = 82, MPG = 27.0 
+AutoMPG Object Created: Make = chevrolet, Model = cavalier 2-door, Year = 82, MPG = 34.0 
+AutoMPG Object Created: Make = pontiac, Model = j2000 se hatchback, Year = 82, MPG = 31.0 
+AutoMPG Object Created: Make = dodge, Model = aries se, Year = 82, MPG = 29.0 
+AutoMPG Object Created: Make = pontiac, Model = phoenix, Year = 82, MPG = 27.0 
+AutoMPG Object Created: Make = ford, Model = fairmont futura, Year = 82, MPG = 24.0 
+AutoMPG Object Created: Make = amc, Model = concord dl, Year = 82, MPG = 23.0 
+AutoMPG Object Created: Make = volkswagen, Model = rabbit l, Year = 82, MPG = 36.0 
+AutoMPG Object Created: Make = mazda, Model = glc custom l, Year = 82, MPG = 37.0 
+AutoMPG Object Created: Make = mazda, Model = glc custom, Year = 82, MPG = 31.0 
+AutoMPG Object Created: Make = plymouth, Model = horizon miser, Year = 82, MPG = 38.0 
+AutoMPG Object Created: Make = mercury, Model = lynx l, Year = 82, MPG = 36.0 
+AutoMPG Object Created: Make = nissan, Model = stanza xe, Year = 82, MPG = 36.0 
+AutoMPG Object Created: Make = honda, Model = accord, Year = 82, MPG = 36.0 
+AutoMPG Object Created: Make = toyota, Model = corolla, Year = 82, MPG = 34.0 
+AutoMPG Object Created: Make = honda, Model = civic, Year = 82, MPG = 38.0 
+AutoMPG Object Created: Make = honda, Model = civic (auto), Year = 82, MPG = 32.0 
+AutoMPG Object Created: Make = datsun, Model = 310 gx, Year = 82, MPG = 38.0 
+AutoMPG Object Created: Make = buick, Model = century limited, Year = 82, MPG = 25.0 
+AutoMPG Object Created: Make = oldsmobile, Model = cutlass ciera (diesel), Year = 82, MPG = 38.0 
+AutoMPG Object Created: Make = chrysler, Model = lebaron medallion, Year = 82, MPG = 26.0 
+AutoMPG Object Created: Make = ford, Model = granada l, Year = 82, MPG = 22.0 
+AutoMPG Object Created: Make = toyota, Model = celica gt, Year = 82, MPG = 32.0 
+AutoMPG Object Created: Make = dodge, Model = charger 2.2, Year = 82, MPG = 36.0 
+AutoMPG Object Created: Make = chevrolet, Model = camaro, Year = 82, MPG = 27.0 
+AutoMPG Object Created: Make = ford, Model = mustang gl, Year = 82, MPG = 27.0 
+Cleaning typo: vw
+Typo cleaned to: volkswagen
+AutoMPG Object Created: Make = volkswagen, Model = pickup, Year = 82, MPG = 44.0 
+AutoMPG Object Created: Make = dodge, Model = rampage, Year = 82, MPG = 32.0 
+AutoMPG Object Created: Make = ford, Model = ranger, Year = 82, MPG = 28.0 
+Cleaning typo: chevy
+Typo cleaned to: chevrolet
+AutoMPG Object Created: Make = chevrolet, Model = s-10, Year = 82, MPG = 31.0 
+Finished loading data
+Sorting data by default order...
+sort_by_default function used
+Sorted data by default order
+Ofile called. Writing header
+Main function ended
