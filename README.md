@@ -5,19 +5,26 @@ This project involves a detailed analysis of the Auto MPG dataset. It is impleme
 ### Users can invoke command line arguments to control:
 
 -Data Sorting: clean the dataset and sort it by MPG, car make, or year
+
 -Statistical Analysis: statistical analysis such as average MPG
+
 -Data Visualisation: visualisations like MPG distributions over years
 
 ## Prerequisites
 Python3 
+
 matplotlib
 
 ## Files
 autompg3.py: main file outlining the program's functionality
 autompg3.log: logging for main file
+
 test_autompg3.py: testing for main file
+
 auto-mpg.data.txt: original autompg data file (is downloaded from internet by program if not present)
+
 auto-mpg.clean.txt: mpg data file that is cleaned in the process of the program
+
 test.txt: Example usage of -ofile to redirect output to outfile
 
 ## Installation
@@ -45,14 +52,19 @@ print: Prints a the output to stdout. If optional argument -ofile is used, outpu
 -plot: rovides matplotlib representation
 ##### Plot Options
 mpg_by_make
+
 mpg_by_year
 
 ## Example command line input
 python3 autompg3.py -s year print
+
 python3 autompg3.py -s make -o example_file.txt print
+
 python3 autompg3.py -p mpg_by_make
+
 python3 autompg3.py -p mpg_by_year
 
 ## Contact Me
 Email: tomporteryoungblood@gmail.com
+
 Phone: 310-405-4100
