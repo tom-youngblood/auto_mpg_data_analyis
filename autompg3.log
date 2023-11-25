@@ -431,8 +431,10 @@ Cleaning typo: chevy
 Typo cleaned to: chevrolet
 AutoMPG Object Created: Make = chevrolet, Model = s-10, Year = 82, MPG = 31.0 
 Finished loading data
-Sorting data by default order...
+Warning - Improper Usage. Usage: usage: autompg3.py [-h] [-s <sort order>] [-o OFILE] [-p] <command>
+
+Sorting by default...
 sort_by_default function used
-Sorted data by default order
+Sorted by default
 Ofile called. Writing header
 Main function ended

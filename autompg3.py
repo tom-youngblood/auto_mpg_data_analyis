@@ -502,7 +502,7 @@ def main():
     parser.add_argument("-o", "--ofile", help ="specify name of a file to which output should be written")
     
     # Add plot argument; allows the user to specify that graphical output using matplotlib should be created
-    parser.add_argument("-p", "--plot", action="store_true", help="produce graphical output; usage: python3 autompg3.py <command> -p")
+    parser.add_argument("-p", "--plot", action="store_true", help="produce graphical output; usage: python3 autompg3.py <command> -p. Arguments: mpg_by_make, mpg_by_year")
 
     # Parse arguments
     args = parser.parse_args()
